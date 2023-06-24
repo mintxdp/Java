@@ -1,2 +1,2 @@
 # Java Doubts
-![java image](https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg)
+![java image](file:///C:/Users/norma/Downloads/java-icon.svg)
